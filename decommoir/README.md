@@ -29,7 +29,7 @@ The infrastructure is designed around private compute resources, managed ingress
 
 ## 🗺️ Architecture Diagram (GCP)
 
-![Architecture Diagram](./assets/atchitecture-diagram.png "GCP architecture")
+![Architecture Diagram](./assets/architecture-diagram.png "GCP architecture")
 
 ```mermaid
 flowchart TB
